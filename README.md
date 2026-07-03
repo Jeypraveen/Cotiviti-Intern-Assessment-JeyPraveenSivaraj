@@ -8,15 +8,6 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 
 ---
 
-## What the App Does
-
-**ClinicalAudit AI** is a Streamlit-based payment integrity intelligence system that audits synthetic healthcare provider billing profiles for fraud, waste, and abuse patterns. It demonstrates all seven Topic 2 concepts from Cotiviti's GenAI intern assessment in a two-tab professional dashboard:
-
-- **Tab 1 - Audit Interface**: Deep-dive analysis of an individual provider across five labeled sections
-- **Tab 2 - Operations Overview**: Portfolio-level view of all 10 providers with financial exposure summary
-
----
-
 ## Demonstration Video
 
 > 💡 **Tip for Reviewers:** To view the video in a new tab without losing this page, please **Cmd + Click** (Mac) or **Ctrl + Click** (Windows) the button below.
@@ -28,6 +19,15 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 </a>
 
 <br>
+
+---
+
+## What the App Does
+
+**ClinicalAudit AI** is a Streamlit-based payment integrity intelligence system that audits synthetic healthcare provider billing profiles for fraud, waste, and abuse patterns. It demonstrates all seven Topic 2 concepts from Cotiviti's GenAI intern assessment in a two-tab professional dashboard:
+
+- **Tab 1 - Audit Interface**: Deep-dive analysis of an individual provider across five labeled sections
+- **Tab 2 - Operations Overview**: Portfolio-level view of all 10 providers with financial exposure summary
 
 ---
 
