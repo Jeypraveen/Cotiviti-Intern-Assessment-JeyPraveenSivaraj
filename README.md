@@ -19,11 +19,11 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 
 ## Demonstration Video
 
-Click the button below to watch the full 5-minute demonstration:
+> 💡 **Tip for Reviewers:** To view the video in a new tab without losing this page, please **Cmd + Click** (Mac) or **Ctrl + Click** (Windows) the button below.
 
 <br>
 
-<a href="https://drive.google.com/file/d/1ZZmpL7xJ_Z31cF9NTvSq4YRVXeOyy8dQ/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1ZZmpL7xJ_Z31cF9NTvSq4YRVXeOyy8dQ/view?usp=sharing">
   <img src="https://img.shields.io/badge/▶_View_Full_Demo_Video_Here-1FA463?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Full Demo Video Here">
 </a>
 
