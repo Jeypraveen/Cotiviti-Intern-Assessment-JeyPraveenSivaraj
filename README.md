@@ -17,6 +17,14 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 
 ---
 
+## Demonstration Video
+
+<video src="./Jey_Praveen_Sivaraj_Demo.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## Topic 2 Concepts Implemented
 
 | Concept | Implementation | Where Visible |
