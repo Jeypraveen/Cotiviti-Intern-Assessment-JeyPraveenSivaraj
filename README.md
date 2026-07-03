@@ -19,10 +19,11 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 
 ## Demonstration Video
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/Jeypraveen/Cotiviti-Intern-Assessment-JeyPraveenSivaraj/main/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click the image below to watch the full 5-minute demonstration:
+
+<a href="https://github.com/Jeypraveen/Cotiviti-Intern-Assessment-JeyPraveenSivaraj/blob/main/Demo.mp4">
+  <img width="1698" height="982" alt="Demonstration Video Thumbnail" src="https://github.com/user-attachments/assets/5e80cac9-48f9-4782-a32c-bd818989919e" />
+</a>
 
 ---
 
