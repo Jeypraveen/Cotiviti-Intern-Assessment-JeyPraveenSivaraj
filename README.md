@@ -10,7 +10,7 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 
 ## Demonstration Video
 
->💡 **Tip for Reviewers:** To view the video in a new tab without losing this page, please **Cmd + Click** (Mac) or **Ctrl + Click** (Windows) the button below.
+>💡 **Tip for Reviewers:** To view the video in a new tab without losing this page, please **Cmd + Click** (For Mac) or **Ctrl + Click** (For Windows) the button below.
 
 <br>
 
