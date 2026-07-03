@@ -28,6 +28,7 @@ Click the button below to watch the full 5-minute demonstration:
 </a>
 
 <br>
+
 ---
 
 ## Topic 2 Concepts Implemented
