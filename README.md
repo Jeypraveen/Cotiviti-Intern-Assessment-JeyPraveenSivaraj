@@ -15,7 +15,7 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 <br>
 
 <a href="https://drive.google.com/file/d/1ZZmpL7xJ_Z31cF9NTvSq4YRVXeOyy8dQ/view?usp=sharing">
-  <img src="https://img.shields.io/badge/▶_View_Demo_Video_Here-1FA463?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Full Demo Video Here">
+  <img src="https://img.shields.io/badge/▶_View_Demo_Video_Here-1FA463?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Demo Video Here">
 </a>
 
 <br>
