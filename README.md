@@ -19,11 +19,13 @@ I deliberately avoided generic approaches (rule-based flagging, single-metric th
 
 ## Demonstration Video
 
-Click the image below to watch the full 5-minute demonstration:
+Click the button below to watch the full 5-minute demonstration:
 
-<a href="https://github.com/Jeypraveen/Cotiviti-Intern-Assessment-JeyPraveenSivaraj/blob/main/Demo.mp4">
-  <img width="1698" height="982" alt="Demonstration Video Thumbnail" src="https://github.com/user-attachments/assets/5e80cac9-48f9-4782-a32c-bd818989919e" />
-</a>
+<br>
+
+[![View Full Demo Video Here](https://img.shields.io/badge/▶_View_Full_Demo_Video_Here-1FA463?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ZZmpL7xJ_Z31cF9NTvSq4YRVXeOyy8dQ/view?usp=sharing)
+
+<br>
 
 ---
 
